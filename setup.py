@@ -53,7 +53,7 @@ setuptools.setup(
     install_requires=[
         'tqdm>=4.47.0',
         'munch>=2.5.0',
-        'torch>=1.7.1',
+        'torchvision==0.17.2',
         'opencv_python_headless>=4.1.1.26',
         'requests>=2.22.0',
         'einops>=0.3.0',
